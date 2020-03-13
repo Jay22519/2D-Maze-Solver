@@ -24,4 +24,10 @@ Input file has the format ->
 Output file contains ->
 
          The path that needs to be traversed and every time how the cost is updated 
+         
+         
+         
+The process.txt file contains -> 
+          
+          How to the process of traversal occurs through the algorithm . It is printing all the invalid and blocked cell whenever it              reaches there . Actually this is helpful to understand how the algorithms works .           
         
