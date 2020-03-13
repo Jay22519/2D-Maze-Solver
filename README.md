@@ -29,5 +29,5 @@ Output file contains ->
          
 The process.txt file contains -> 
           
-          How to the process of traversal occurs through the algorithm . It is printing all the invalid and blocked cell whenever it      reaches there . Actually this is helpful to understand how the algorithms works .           
+          How to the process of traversal occurs through the algorithm . It is printing all the invalid and blocked cell whenever it reaches there. Actually this is helpful to understand how the algorithms works .           
         
