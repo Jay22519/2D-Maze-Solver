@@ -1,0 +1,1779 @@
+1       0       2       2       1       2       0
+1       2       1       2       1       0       0
+1       1       2       0       1       1       1
+1       0       0       0       1       2       0
+1       2       1       0       1       1       0
+1       0       2       0       1       2       2
+1       1       1       2       1       2       1
+1       0       2       1       1       1       1
+2       0       0       1       2       1       0
+1       2       3       4       5       2       1
+
+
+Row is 10 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 6 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 7 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 10 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is -1 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 9 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 8 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 7 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 6 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 5 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 4 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 3 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 5 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 4 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is -1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 3 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 1 and this is an Invalid Entry
+
+
+
+
+Row is 2 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 2 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 0 Column is 0 and this is an Invalid Entry
+
+
+
+
+Row is 1 Column is -1 and this is an Invalid Entry
+
+
+0       -1      1       2       2       3       -1
+0       0       1       1       2       -1      -1
+0       0       0       -1      2       2       2
+0       -1      -1      -1      2       2       -1
+0       0       1       -1      2       2       -1
+0       -1      0       -1      1       2       2
+0       0       0       0       1       1       1
+0       -1      0       1       1       1       1
+0       -1      -1      1       1       1       -1
+1       1       2       1       2       1       2
+
+
+1  0  2  2  1  2  0
+1  2  1  2  1  0  0
+1  1  2  0  1  1  1
+1  0  0  0  1  2  0
+1  2  1  0  1  1  0
+1  0  2  0  1  2  2
+1  1  1  2  1  2  1
+1  0  2  1  1  1  1
+2  0  0  1  2  1  0
+1  2  3  4  5  2  1
+
+Done with calculation 
