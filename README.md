@@ -1,6 +1,6 @@
 # 2D-Maze-Solver
 
-Implemented a 2D Maze Solver in C programming Language. The code file is well documented and commented file .
+Implemented a 2D Maze Solver in C programming Language. The code file is well documented and commented  .
 
 The input format is such that ->
 
