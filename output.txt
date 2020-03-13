@@ -1,0 +1,11 @@
+Row 6   Column 4   Cost 1
+Row 6   Column 3   Cost 0
+Row 6   Column 2   Cost 0
+Row 6   Column 1   Cost 0
+Row 6   Column 0   Cost 0
+Row 5   Column 0   Cost 0
+Row 4   Column 0   Cost 0
+Row 3   Column 0   Cost 0
+Row 2   Column 0   Cost 0
+Row 1   Column 0   Cost 0
+Row 0   Column 0   Cost 0
