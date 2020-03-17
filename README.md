@@ -29,5 +29,17 @@ Output file contains ->
          
 The process.txt file contains -> 
           
-          How to the process of traversal occurs through the algorithm . It is printing all the invalid and blocked cell whenever it reaches there. Actually this is helpful to understand how the algorithms works .           
+          How to the process of traversal occurs through the algorithm . It is printing all the invalid and blocked cell whenever it reaches there. Actually this is helpful to understand how the algorithms works .    
+
+
+
+
+Though the code is optimized but still some optimization which cyou can try and is not in the code is -> 
+
+        
+        1) I've upper bounded all the 2d arrays with max column size as 1000, becuase it helps me in passing the matrix with any dimension specification in the function .  Instead you can use a integer pointer array i.e int *(cost[row]) , so here the column size becomes variable so passing it in the function will not require any size specification . Use can even use  int **cost , but I think that will make the things complicated . 
+        
+        2) Now I've used a 2-D Array to store the input Maze , but if you know beforehand or usually the case where most of the cell in the maze are blocked , so instead of wasting a lot of space in the matrix which you know you won't travel use a Sparse Matrix will not only save a lot of space but also help you in not calculating or checking is_Valid on the blocked cell 
+        
+
         
