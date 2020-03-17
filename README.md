@@ -34,7 +34,7 @@ The process.txt file contains ->
 
 
 
-Though the code is optimized but still some optimization which cyou can try and is not in the code is -> 
+Though the code is optimized but still some optimization which you can try and is not in the code is -> 
 
         
         1) I've upper bounded all the 2d arrays with max column size as 1000, becuase it helps me in passing the matrix with any dimension specification in the function .  Instead you can use a integer pointer array i.e int *(cost[row]) , so here the column size becomes variable so passing it in the function will not require any size specification . Use can even use  int **cost , but I think that will make the things complicated . 
